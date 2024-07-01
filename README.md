@@ -1,2 +1,2 @@
-# Mis-Sitios-Web
-Sitios Web Desarrollados Por Mi Para WebScript
+# Plantillas de Practica
+Sitios Web Desarrollados con HTML+CSS
