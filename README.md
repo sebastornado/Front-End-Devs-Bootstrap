@@ -1,2 +1,2 @@
-# Plantillas de Practica
-Sitios Web Desarrollados con HTML+CSS
+# Desarrollos Front-End usando Bootstrap y Jquery
+Para ver los sitios web online, visitar: https://lcdosebastiantorres.com/
